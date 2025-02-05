@@ -18,6 +18,9 @@ Welcome to the **Countdown Timer Project** ⏳! This project displays a simple c
 - ⚡ **JavaScript** (Countdown Logic)
 
 ---
+## 🌐 Preview
+- [New Year Countdown](https://pranavk1845.github.io/New-Year-Countdown/)
 
+---
 
 
